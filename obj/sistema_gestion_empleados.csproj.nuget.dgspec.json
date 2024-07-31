@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5-006/C#/sistema_gestion_empleados/sistema_gestion_empleados.csproj": {}
+    "/home/riwip5-006/C#/sistema_gestion_empleados_poo/sistema_gestion_empleados.csproj": {}
   },
   "projects": {
-    "/home/riwip5-006/C#/sistema_gestion_empleados/sistema_gestion_empleados.csproj": {
+    "/home/riwip5-006/C#/sistema_gestion_empleados_poo/sistema_gestion_empleados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip5-006/C#/sistema_gestion_empleados/sistema_gestion_empleados.csproj",
+        "projectUniqueName": "/home/riwip5-006/C#/sistema_gestion_empleados_poo/sistema_gestion_empleados.csproj",
         "projectName": "sistema_gestion_empleados",
-        "projectPath": "/home/riwip5-006/C#/sistema_gestion_empleados/sistema_gestion_empleados.csproj",
+        "projectPath": "/home/riwip5-006/C#/sistema_gestion_empleados_poo/sistema_gestion_empleados.csproj",
         "packagesPath": "/home/riwip5-006/.nuget/packages/",
-        "outputPath": "/home/riwip5-006/C#/sistema_gestion_empleados/obj/",
+        "outputPath": "/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/riwip5-006/.nuget/NuGet/NuGet.Config"

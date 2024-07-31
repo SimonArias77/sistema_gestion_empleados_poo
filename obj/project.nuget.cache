@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ySwo8AuAvJE8kNsmKbwXPQN6D8goH8vNJtvMlGx8r1tSgpujOEUF5i/bf3M86SyPsBh1LYvB8TYWd4Q2TCA6wQ==",
+  "dgSpecHash": "vQt5Sw6ywDAVKXrwQe/9wEzoSXw0S71J3DcgdyuTlKt9eE71BB2Bm0xp9HFwycv+b61Q73jskzFyc2VgQLkJhQ==",
   "success": true,
-  "projectFilePath": "/home/riwip5-006/C#/sistema_gestion_empleados/sistema_gestion_empleados.csproj",
+  "projectFilePath": "/home/riwip5-006/C#/sistema_gestion_empleados_poo/sistema_gestion_empleados.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
