@@ -1,0 +1,15 @@
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/sistema_gestion_empleados.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/sistema_gestion_empleados.AssemblyInfoInputs.cache
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/sistema_gestion_empleados.AssemblyInfo.cs
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/sistema_gestion_empleados.csproj.CoreCompileInputs.cache
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/sistema_gestion_empleados.sourcelink.json
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/bin/Debug/net8.0/sistema_gestion_empleados
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/bin/Debug/net8.0/sistema_gestion_empleados.deps.json
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/bin/Debug/net8.0/sistema_gestion_empleados.runtimeconfig.json
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/bin/Debug/net8.0/sistema_gestion_empleados.dll
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/bin/Debug/net8.0/sistema_gestion_empleados.pdb
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/sistema_gestion_empleados.dll
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/refint/sistema_gestion_empleados.dll
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/sistema_gestion_empleados.pdb
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/sistema_gestion_empleados.genruntimeconfig.cache
+/home/riwip5-006/C#/sistema_gestion_empleados_poo/obj/Debug/net8.0/ref/sistema_gestion_empleados.dll
